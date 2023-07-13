@@ -1,0 +1,18 @@
+enum EyeColour {
+  green,
+  brown,
+  blue,
+  grey,
+  black,
+  red,
+  yellow,
+  hazel,
+  pale,
+  silvery,
+  amber,
+  orange,
+  white,
+  dark,
+  yellowish,
+  unknown,
+}

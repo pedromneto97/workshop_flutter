@@ -1,0 +1,18 @@
+enum Patronus {
+  stag,
+  otter,
+  jackRussellTerrier,
+  tabbyCat,
+  swan,
+  doe,
+  nonCorporeal,
+  hare,
+  horse,
+  wolf,
+  weasel,
+  lynx,
+  persianCat,
+  boar,
+  goat,
+  unknown,
+}
